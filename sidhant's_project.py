@@ -1,3 +1,5 @@
+#this is comment
+
 print("***********Welcome to Mason Vending Machine***********")
 print("1. Cereal and granola bars - $1.99")
 print("2. Chips and pretzels - $1.00")
